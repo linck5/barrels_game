@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barrel", "Barrel.csproj", "{530CA529-D8C4-7F4D-A751-D85099A3DD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{530CA529-D8C4-7F4D-A751-D85099A3DD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530CA529-D8C4-7F4D-A751-D85099A3DD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530CA529-D8C4-7F4D-A751-D85099A3DD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530CA529-D8C4-7F4D-A751-D85099A3DD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+
+Procedurally generated mode:
+
+Idea 1:
+There would be a counter o barrels shot, and the dificulty would be increasing overtime. When the player loses, he would have the option to watch a video from unity api to start already halfway the barrel count and the difficulty from there on.
+
+To think: Would he only be able to do this right after his run or anytime outside gameplay too?
+
+This could go alongside with add popups at the end of the run. But they would appear only if it was not a highscore so the player don't get double frustrated with the video in the sequence.
+
+Alternatively, the player could pay a certain ammount to get add free and always start halfway through.
+
+Idea 2 (doesn't exclude first):
+Cosmetic microtransactions?

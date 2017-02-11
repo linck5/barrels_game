@@ -1,0 +1,22 @@
+Game modes:
+
+Endless
+Infinite and procedurally generated barrels with difficulty increase.
+
+
+Puzzle
+Puzzle levels
+-Requires good ammount of barrel interactive mechanics.
+
+
+Campaing
+Premade levels.
+
+Gameplay Mechanics
+
+-Some sort of combo system to feedback and enlarge what the player is doing. To excite the player.
+
+Combos:
+Firing the player at the first opportunity increses combo
+When combo reaches certain milestones, automatic shots will be made
+After the end of the automatic shot, the combo can continue and lead to better atuomatic shots
